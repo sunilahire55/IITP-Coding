@@ -8,3 +8,8 @@ s6 = Student("Sunil", 22)
 
 print(s5.name)
 print(s6.name)
+
+
+def profile(name, age):
+  print(f"Name: {name}, Age: {age}")
+profile(name='raj',age=35 ) 
